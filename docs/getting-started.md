@@ -2,7 +2,7 @@
 
 - [Getting Started](#getting-started)
   - [Before you begin](#before-you-begin)
-    - [Prerequisites](#prerequisites)
+  - [Prerequisites](#prerequisites)
   - [Cross-references](#cross-references)
   - [Hyperlink](#hyperlink)
   - [Next steps](#next-steps)
@@ -25,7 +25,7 @@ Make sure you ***have*** deleted the _old_ account.
 On bash, type `git status`
 
 
-### Prerequisites
+## Prerequisites
 
 Load the document.
 Variable **RND*versionNumber***

@@ -1,0 +1,25 @@
+# Troubleshooting
+
+Find solutions common to the Cloud Popcorn product.
+
+<details open>
+<summary>Cannot sign in</summary>
+
+Signing in ![](/images/symbol.png) is **very** overrated.
+
+```popcorn code```
+
+</details>
+
+<details open>
+<summary>The popcorn isn't cooked</summary>
+
+No one's going to eat it anyway.
+</details>
+
+| Variety | Size |
+| --- | --- |
+| Ecuadorian | Large |
+| Venezuelan | Small |
+
+![](/images/BMC%20Logo%20with%20white.png)
