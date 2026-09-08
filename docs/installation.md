@@ -7,6 +7,7 @@ Before installing the product, make sure you have:
 - Administrator access
 - Internet access
 - The installation package
+- Another line
  
 ## Install the product
  
