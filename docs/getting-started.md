@@ -56,6 +56,8 @@ Link to the [Cross-references](#cross-references) heading.
 
 ## Next steps
 
+Another line
+
 Continue with the _**installation**_ guide.
 
 List of guides:

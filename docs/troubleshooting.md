@@ -16,6 +16,7 @@ Signing in ![](/images/symbol.png) is **very** overrated.
 
 No one's going to eat it anyway.
 </details>
+Another line
 
 | Variety | Size |
 | --- | --- |
