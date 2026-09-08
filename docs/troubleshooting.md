@@ -2,6 +2,8 @@
 
 Find solutions common to the Cloud Popcorn product.
 
+I added this line on Tuesday afternoon
+
 <details open>
 <summary>Cannot sign in</summary>
 
