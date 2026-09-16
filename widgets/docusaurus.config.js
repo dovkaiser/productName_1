@@ -23,11 +23,11 @@ const config = {
   url: 'http://localhost',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: 'productName_1',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'dovkaiser/productName_1', // Usually your GitHub org/user name.
+  organizationName: 'dovkaiser', // Usually your GitHub org/user name.
   projectName: 'productName_1', // Usually your repo name.
 
   onBrokenLinks: 'throw',

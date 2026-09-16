@@ -1,19 +1,5 @@
 # Getting Started
 
-- [Getting Started](#getting-started)
-  - [Before you begin](#before-you-begin)
-  - [Prerequisites](#prerequisites)
-  - [Cross-references](#cross-references)
-  - [Hyperlink](#hyperlink)
-  - [Next steps](#next-steps)
-      - [Images](#images)
-        - [Heading 5](#heading-5)
-  - [Tables](#tables)
-  - [Notations](#notations)
-    - [Task list](#task-list)
-    - [Collapsible content](#collapsible-content)
-
-
 Welcome to our product documentation.
 
 ## Before you begin
@@ -42,11 +28,7 @@ Press `Shift + Enter`
 ```
 ## Cross-references
 
-[Readme.md](/README.md)
-
 ## Hyperlink
-
-For more information, [home page](https://docs.bmc.com/xwiki/bin/view/Main/).
 
 You need `https:`. It needs the protocol, not just the URL.
 
