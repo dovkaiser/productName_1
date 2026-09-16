@@ -1,3 +1,0 @@
-# Administration
-
-No content yet

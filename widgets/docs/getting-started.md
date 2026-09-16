@@ -70,11 +70,9 @@ List of guides:
 - User guide
   1. Open the user guide
 1. fd
-  1. Close the user guide. Click Symbol ![](../images/symbol.png).
-
+  1. Close the user guide. 
 #### Images
 
-![](../images/BMC%20Logo%20with%20white.png)
 
 To resize images, use HTML tags `width="300" height="500"`
 

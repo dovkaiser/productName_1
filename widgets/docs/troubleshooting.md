@@ -8,7 +8,7 @@ Rahul, I've added another line.
 <details open>
 <summary>Cannot sign in</summary>
 
-Signing in ![](/images/symbol.png) is **very** overrated.
+Signing in is **very** overrated.
 
 ```popcorn code```
 
@@ -25,5 +25,3 @@ Another line
 | --- | --- |
 | Ecuadorian | Large |
 | Venezuelan | Small |
-
-![](/images/BMC%20Logo%20with%20white.png)
