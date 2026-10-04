@@ -20,9 +20,8 @@ Press `Shift + Enter`
 
 **Code block**
 
-```html
 <b>First line of code<b>
-}
+
 
 <i>last *line*</i> code
 ```
