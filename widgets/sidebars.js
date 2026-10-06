@@ -6,7 +6,7 @@ module.exports = {
      label: 'Configuring',
      link: {
       type: 'doc'
-      id: 'configuring/index'
+      id: 'index'
      },
      items: ['configuring-widgets', 'configuring-machines'],
    }, 
