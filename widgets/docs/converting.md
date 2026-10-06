@@ -22,6 +22,15 @@ docker stats model9db
 
 Run the following ==command and, if necessary, check== the relevant logs:
 
+```js
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+  <b>bold text</b>
+}
+```
+
 ---
 
 1. step `fds` 1

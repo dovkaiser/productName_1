@@ -20,12 +20,9 @@ Press `Shift + Enter`
 
 **Code block**
 
-<b>First line of code<b>
-
+<b>First line of code</b>
 
 <i>last *line*</i> code
-```
-## Cross-references
 
 ## Hyperlink
 
