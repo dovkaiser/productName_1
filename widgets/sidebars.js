@@ -8,12 +8,12 @@ module.exports = {
       type: 'doc',
       id: 'configuring/index'
      },
-     items: ['configuring/configuring-widgets', 'configuring/configuring-machines'],
+     items: ['configuring/about-images', 'configuring/configuring-widgets', 'configuring/configuring-machines'],
    }, 
   {
      type: 'category',
      label: 'Getting Started',
-     items: ['about-images', 'getting-started', 'product-overview', 'user-guide'],
+     items: ['getting-started', 'product-overview', 'user-guide'],
    },
    {
      type: 'category',
