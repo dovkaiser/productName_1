@@ -13,7 +13,7 @@ module.exports = {
   {
      type: 'category',
      label: 'Getting Started',
-     items: ['getting-started', 'product-overview', 'user-guide'],
+     items: ['about-images', 'getting-started', 'product-overview', 'user-guide'],
    },
    {
      type: 'category',
