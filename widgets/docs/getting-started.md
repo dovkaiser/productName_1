@@ -1,5 +1,9 @@
 # Getting Started
 
+[Images heading](#images)
+
+[Google link](www.google.com)
+
 Welcome to our product documentation.
 
 ## Before you begin
@@ -49,7 +53,7 @@ List of guides:
   1. Open the user guide
 1. fd
   1. Close the user guide. 
-#### Images
+#### Images {#images}
 
 
 To resize images, use HTML tags `width="300" height="500"`
@@ -74,6 +78,9 @@ Now an ordered list:
 
 ## Tables
 
+❗
+⚠️ Warning emoji from emojipedia.org/warning
+
 **A list of composers**
 
 | Composer | Description | Country |
@@ -87,6 +94,10 @@ To add list inside a table cell, use HTML tags.
 
 > [!NOTE] Important
 > Note content
+
+> [!NOTE] Important
+> Second important notation
+>second line, but not list items with HTML
 
 [!Note] Important
 > Important text

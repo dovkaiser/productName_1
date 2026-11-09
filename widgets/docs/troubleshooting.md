@@ -15,7 +15,7 @@ Signing in is **very** overrated.
 </details>
 
 <details open>
-<summary>The popcorn isn't cooked</summary>
+<summary>Click here to expand</summary>
 
 No one's going to eat it anyway.
 </details>
@@ -23,5 +23,5 @@ Another line
 
 | Variety | Size |
 | --- | --- |
-| Ecuadorian | Large |
-| Venezuelan | Small |
+| Ecuadorian: <ol><li>list item 1</li><li>list item 2</li></ol> | ```Large``` |
+| Venezuelan **salad** | Small |
